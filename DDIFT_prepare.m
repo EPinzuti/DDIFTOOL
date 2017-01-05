@@ -5,7 +5,7 @@ function Data_analysis = DDIFT_prepare(varargin)
 % It prepares the data for subsequent analysis.
 % You can call this function as follows: 
 %
-%  data_prepare=DDIFT_prepare(cfg, data)
+%  data_prepare=DDIFT_prepare(cfg, data);
 %
 %
 %The function DDIFT_prepare was inspired, and it follows many aspects of
